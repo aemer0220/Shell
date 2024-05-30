@@ -1,0 +1,7 @@
+sleep 12 &
+sleep 4 &
+jobs
+fg
+jobs
+fg 1
+jobs

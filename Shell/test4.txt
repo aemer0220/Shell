@@ -1,0 +1,19 @@
+sleep 5 & sleep 3 & jobs
+ls ; pwd
+date
+date
+pwd
+ls
+sleep 5 & fg
+jobs
+history
+sleep 3 ; sleep 4 ; sleep 1 & fg
+history 
+ls
+sleep 20 &
+exit
+ls
+pwd
+jobs
+ls
+whoami

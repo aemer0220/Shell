@@ -1,0 +1,7 @@
+sleep 6 & sleep 2 & fg
+jobs
+ls
+wait
+jobs
+pwd
+history
